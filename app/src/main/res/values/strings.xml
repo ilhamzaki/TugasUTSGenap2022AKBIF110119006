@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas UTS Genap 2022 AKB IF1 10119006</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ilham Zaki</string>
+    <string name="nav_header_subtitle">10119006</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_profile">Profil Mahasiswa</string>
+    <string name="menu_note">Daftar Catatan Harian</string>
+    <string name="menu_about">Informasi Tentang Aplikasi</string>
+</resources>
